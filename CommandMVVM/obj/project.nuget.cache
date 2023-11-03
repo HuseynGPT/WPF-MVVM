@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2uv4EAXhSre2Pk7pMLp4u1oA74wUYRLGOp+Nz3EDAVibhmwFK7WPeXm/PgSgb6jClmynCBpoPOyNdxBALc9VsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Downloads\\Compressed\\CommandMVVM\\CommandMVVM\\CommandMVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
